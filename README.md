@@ -4,7 +4,7 @@
 
 I build web and API automation frameworks with Playwright + Python and Selenium + Java, and use AI tools like Cursor and Claude to speed up test creation and QA workflows.
 
-[Portfolio](https://shrikant-thete.netlify.app) · [LinkedIn](https://www.linkedin.com/in/shrikant-thete-271865124) · [Email](mailto:shrikantthete@gmail.com)
+[Portfolio](https://shrikantthete.netlify.app) · [LinkedIn](https://www.linkedin.com/in/shrikant-thete-271865124) · [Email](mailto:shrikantthete@gmail.com)
 
 ## Impact
 
